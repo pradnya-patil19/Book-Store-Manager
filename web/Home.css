@@ -1,0 +1,96 @@
+body {
+    background-color:#252525;
+    padding-top:50px;
+}
+
+h1 {
+    font-size: 60px;
+    color: #F9f1cc;
+}
+
+#GridViewBooks {
+    font-size: 25px;
+    text-align: center;
+}
+
+.func {
+    font-size: 20px;
+}
+
+label{
+    padding-left: 20px;
+    font-size: 27px;
+    color: #bfbfbf;
+}
+
+span{
+    padding-left: 2px;
+    font-size: 25px;
+    color: #bfbfbf
+}
+
+.lbstyle, #lnkBack {
+    font-size: 25px;
+    color: #FF9933;
+}
+
+.inputField {
+    height:150px;
+    width:200px;
+    text-align:left;
+    color:white;
+}
+
+#btnAddBook {
+    background-color: #252525;
+    border-color: #FF9933;
+    border-width: 3px;
+    color: white;
+    margin-right: 15px;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 16px;
+}
+#btnDeleteBook {
+    background-color: #252525;
+    border-color: #FF9933;
+    border-width: 3px;
+    color: white;
+    margin-right:10px;
+    margin-top:10px;
+    height: 30px;
+    font-size: 16px;
+}
+#btnCancel {
+    background-color: #252525;
+    border-color: #FF9933;
+    border-width: 3px;
+    color: white;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 16px;
+}
+#btnUpdateBook {
+    background-color: #252525;
+    border-color: #FF9933;
+    border-width: 3px;
+    color: white;
+    margin-right: 15px;
+    margin-top: 10px;
+    height: 30px;
+    font-size: 16px;
+}
+
+#input{
+    height: 30px;
+    width: 180px;
+    margin-bottom: 10px;
+    font-size: 20px
+}
+
+.afterText{
+    color: #FFFFFF;
+    font-size: 25px;
+    text-align: center;
+    padding-right: 100px;
+}
